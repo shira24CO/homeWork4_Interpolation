@@ -1,7 +1,3 @@
-''' Ilan Shklover 206753550
-Shira Cohen 211777834
-Eli Ben Aharon 311614853
-'''
 
 All_Elementary_matrix= {}
 
